@@ -1,0 +1,3 @@
+[submodule "HrSystems"]
+	path = HrSystems
+	url = https://github.com/Manoj-Kumar-Selvaraj/SecOpsDev.git
